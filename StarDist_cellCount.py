@@ -71,7 +71,7 @@ def batch_process_StarDist(bit8Dir, labelDir, ext, command):
 
             imp = IJ.openImage(f)
             res = command.run(
-            				  StarDist2D, False,
+                              StarDist2D, False,
                               "input", imp,
                               "modelChoice", "Versatile (fluorescent nuclei)",
                               "outputType", "Both",

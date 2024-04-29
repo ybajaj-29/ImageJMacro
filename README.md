@@ -15,3 +15,6 @@
 python StarDist_cmd.py "path\to\ImageJ.exe" "path\to\unprocessed\images" <br />
                        "path\to\preprocessing\script" "path\to\preprocessed\images" <br />
                        "model_folder_or_pretrained_name" "path\to\postprocessed\images" -v
+
+Note: You may need to run the ImageJ executable differently depending on your system. The current script is configured for win64. <br />
+More information can be found at: https://imagej.net/scripting/headless

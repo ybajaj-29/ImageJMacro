@@ -1,3 +1,3 @@
-Inspired by the work of Dr. Uwe Schmidt (uschmidt83) <br />
-on the StarDist project and the examples available at <br />
+Inspired by the work of Dr. Uwe Schmidt (uschmidt83)
+on the StarDist project and the examples available at
 https://github.com/stardist/stardist/tree/main/stardist/scripts

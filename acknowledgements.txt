@@ -1,0 +1,1 @@
+Inspired by the work of Dr. Uwe Schmidt (uschmidt83) on the StarDist project and the examples available at https://github.com/stardist/stardist/tree/main/stardist/scripts.

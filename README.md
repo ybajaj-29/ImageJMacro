@@ -1,7 +1,8 @@
 # Downloads:
 
 1.	Download Fiji (ImageJ) from: https://downloads.imagej.net/fiji/archive/20230710-2317/ <br />
-            - Do not update beyond this version! You should be running v1.54f. <br />
+
+  	  - Do not update beyond this version! You should be running v1.54f. <br />
   	  - v1.54i (the 03/2024 update) is buggy and not yet fully headless compatible. <br />
   	  - If you are having trouble downloading the older version, let me know and I will email you a zip file of the installation.
 

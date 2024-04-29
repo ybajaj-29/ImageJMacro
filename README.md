@@ -12,6 +12,6 @@
 
 # Usage:
 
-python StarDist_cmd.py "path\to\ImageJ.exe" "path\to\unprocessed\images"
-                       "path\to\preprocessing\script" "path\to\preprocessed\images"
+python StarDist_cmd.py "path\to\ImageJ.exe" "path\to\unprocessed\images" <br />
+                       "path\to\preprocessing\script" "path\to\preprocessed\images" <br />
                        "model_folder_or_pretrained_name" "path\to\postprocessed\images" -v

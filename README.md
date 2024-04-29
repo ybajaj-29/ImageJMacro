@@ -1,4 +1,4 @@
-Downloads:
+# Downloads:
 
 1.	Download Fiji (ImageJ) from: https://downloads.imagej.net/fiji/archive/20230710-2317/
       •	Do not update beyond this version! You should be running v1.54f.
@@ -11,7 +11,7 @@ Downloads:
 https://imagej.net/plugins/stardist#usage
 
 
-Usage:
+# Usage:
 
 python StarDist_cmd.py "path\to\ImageJ.exe" "path\to\unprocessed\images"
                        "path\to\preprocessing\script" "path\to\preprocessed\images"
